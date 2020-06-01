@@ -5,6 +5,8 @@ The widget is a Modal Bottom Sheet and slides up when the user clicks on a produ
 
 In this repository I included only the `lib` folder with the essential widgets.
 
+The code is well commented and easy to understand. Feel free to reach out if you have any questions.
+
 ### Inspiration
 The inspiration for this widget came from [Tom Svorobovich's design app](https://dribbble.com/shots/11401747-Cashier-app)
 check the image below, it is the top middle input counter and add to cart button
